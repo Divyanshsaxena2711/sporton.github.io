@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+.h1 {
+    position: relative;
+    top: 52px;
+}
+
+p {
+    position: relative;
+    top: 75px;
+    display: block;
+}
+
+.form input {
+    width: 50%;
+    text-align: center;
+    margin: -11px auto;
+}
+
+.form {
+    position: relative;
+    margin-top: 93px;
+}
+
+.btn {
+    width: 50%;
+    margin: 20px auto;
+}
